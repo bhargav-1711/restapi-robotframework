@@ -1,2 +1,2 @@
 # restapi-robotframework
-performed the given action on the api
+performed the given validations on the api
